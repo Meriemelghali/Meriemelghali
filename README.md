@@ -6,3 +6,5 @@ About Me
 - 🌱 I’m currently learning Java Script Frameworks and Librairies,
 - 👯 I’m looking to collaborate on on open Source Project and to work as freelance
 - 💬 Ask me about Windev, Webdev, Windev Mobile
+- ![Meriem's GitHub stats](https://github-readme-stats.vercel.app/api?username=Meriemelghali&show_icons=true&theme=radical)
+  
