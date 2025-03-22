@@ -1,4 +1,4 @@
-## Hi, My name is Meriem and I'm a software developper from Tunisia. Thank You for taking the time to view my GitHub Profile 😄 👋
+## Hi, my name is Meriem, and I'm a software developer from Tunisia. Thank you for taking the time to view my GitHub profile. 😄 👋
 
 About Me 
 - 🔭 I’m currently working on WINCOM
